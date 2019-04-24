@@ -1,0 +1,7 @@
+AD	01	C	200
+IS	04	1	S	1	
+IS	01	1	S	2	
+IS	05	1	S	3	
+DL	01	C	1	
+DL	01	C	5	
+AD	02	
